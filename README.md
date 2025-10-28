@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Davide Catucci
+- 👋 Hi, I’m Davide Catucci and I'm 19 years old
 - 🧐 I’m interested in AI, Computer Science, Mathematics and Physics
 - 🌱 I’m currently learning Machine Learning and Computer Science at Sapienza University Of Rome
 - 🌍 I’m looking to collaborate on revolutionary projects
